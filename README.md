@@ -8,4 +8,6 @@
 <p align='center'> :school: Graduação :school: </p>
  
 ### :open_file_folder: Projetos
-[Badge Impacto da Indústria da Moda no Meio Ambiente](https://github.com/maafinotti/impacto_da_industria_da_moda_no_meio_ambiente)
+- [Impacto da Indústria da Moda no Meio Ambiente](https://github.com/maafinotti/impacto_da_industria_da_moda_no_meio_ambiente)
+- [O Acesso à Internet no Mundo](https://github.com/maafinotti/o_acesso_a_internet_no_mundo/blob/main/README.md)
+- [Análise e Predição da Satisfação de Clientes do Airbnb](https://github.com/maafinotti/satisfacao_clientes_airbnb)
