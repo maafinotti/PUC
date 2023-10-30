@@ -4,6 +4,7 @@
 
 <h1 align="center">PUC-SP - Projetos</h1>
 
+<h3 align="center">Ciência de Dados e Inteligência Artificial</h3>
 <h4 align="center">2022 - 2025</h4>
 <p align='center'> :school: Graduação :school: </p>
  
