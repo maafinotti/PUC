@@ -7,5 +7,5 @@
 <h4 align="center">2022 - 2025</h4>
 <p align='center'> :school: Graduação :school: </p>
  
-
-[Impacto da Indústria da Moda no Meio Ambiente](https://github.com/maafinotti/impacto_da_industria_da_moda_no_meio_ambiente)
+### :open_file_folder: Projetos
+[Badge Impacto da Indústria da Moda no Meio Ambiente](https://github.com/maafinotti/impacto_da_industria_da_moda_no_meio_ambiente)
