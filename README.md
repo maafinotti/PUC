@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://www.pucsp.br/sites/default/files/download/brasao-PUCSP-assinatura-principal-RGB.png](https://github.com/maafinotti/PUC/blob/main/puc.png)" alt="Logo PUC" height="200px" />
+<img src="https://www.pucsp.br/sites/default/files/download/brasao-PUCSP-assinatura-principal-RGB.png" alt="Logo PUC" height="200px" />
 </p>
 
 <h1 align="center">PUC-SP - Projetos</h1>
