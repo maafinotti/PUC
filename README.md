@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/maafinotti/PUC/blob/main/puc.png" alt="Logo PUC" height="500px" />
+<img src="https://github.com/maafinotti/PUC/blob/main/puc.png" alt="Logo PUC" height="250px" />
 </p>
 
 <h1 align="center">PUC-SP - Projetos</h1>
