@@ -13,3 +13,6 @@
 - [O Acesso à Internet no Mundo](https://github.com/maafinotti/o_acesso_a_internet_no_mundo/blob/main/README.md)
 - [Análise e Predição da Satisfação de Clientes do Airbnb](https://github.com/maafinotti/satisfacao_clientes_airbnb)
 - [Subscrição de Depósitos a Prazo](https://github.com/maafinotti/bank_additional)
+- [HackaPUC 2024](https://github.com/maafinotti/hackaPUC_24)
+- [POC - gRPC](https://github.com/maafinotti/POC_gRPC)
+- [Análise de Gêneros Cinematográficos](https://github.com/maafinotti/analise_de_generos_cinematograficos)
