@@ -2,7 +2,7 @@
 <img src="https://www.pucsp.br/sites/default/files/download/brasao-PUCSP-assinatura-principal-RGB.png" alt="Logo PUC" height="200px" />
 </p>
 
-<h1 align="center">PUC-SP - Projetos</h1>
+<h1 align="center">PUC-SP - Principais Projetos</h1>
 
 <h3 align="center">Ciência de Dados e Inteligência Artificial</h3>
 <h4 align="center">Janeiro 2022 - Julho 2025</h4>
